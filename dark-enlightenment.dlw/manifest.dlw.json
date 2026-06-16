@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "THE DARK ENLIGHTENMENT",
+  "universe": "DRK · The Dark Enlightenment",
+  "emergence": "",
+  "moniker": "⟦THE DARK ENLIGHTENMENT:DRK:798e36⟧",
+  "carbon": "dark-enlightenment.carbon.tiff (TIFF)",
+  "silicon": "dark-enlightenment.silicon.png (PNG)",
+  "seal_sha256": "6397fd18f5e7805babb534dd344e7112a23c073ec2ff0f9b22e8437854ec7ccf",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
