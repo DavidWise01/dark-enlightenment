@@ -4,6 +4,6 @@ slug  : dark-enlightenment
 seal  : 6397fd18f5e7805babb534dd344e7112a23c073ec2ff0f9b22e8437854ec7ccf
 prev  : c7fab23d34368d98eb1c75359bbd605380ff3e409a519f866ccc85d23363ec2c
 link  : 80d6a27a131ed879395d63bdd17edf0d0223b09e5768d5b5c2719928ce5784a5
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
