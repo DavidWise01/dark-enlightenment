@@ -1,9 +1,9 @@
 ROOT0-DLW-CHAIN-v1
 index : 638
 slug  : dark-enlightenment
-seal  : 6397fd18f5e7805babb534dd344e7112a23c073ec2ff0f9b22e8437854ec7ccf
-prev  : c7fab23d34368d98eb1c75359bbd605380ff3e409a519f866ccc85d23363ec2c
-link  : 80d6a27a131ed879395d63bdd17edf0d0223b09e5768d5b5c2719928ce5784a5
-head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
+seal  : c96d583f936a4f826d273221ea8336fd9b3bee663450199c469e9eeedd3b5190
+prev  : 86e572dd87f78e773390656200bc204e4610de1c6e176374e1040982994902a2
+link  : 23680fdfaf9e570e0910fb761070b4418f09e4c7adbf8b75715da11b291ccefe
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
